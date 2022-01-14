@@ -1,0 +1,65 @@
+Forms > Forms | Part-2 | Cheat Sheet
+Forms | Part-2 | Cheat Sheet
+1. HTML Select Element
+The HTML select element is used to create a drop-down list.
+
+HTML
+1.1 HTML Option Element
+The HTML option element is used to create the menu option of a drop-down list.
+
+The text content of the HTML option element is used as a label.
+
+HTML
+1.1.1 The value Attribute
+Every HTML option element should contain the HTML value attribute.
+
+HTML
+2. HTML Input Element
+2.1 Radio
+The HTML input radio element is used to select one option among a list of given options.
+
+HTML
+2.1.1 HTML name attribute
+The HTML name Attribute specifies the name for an HTML Element.
+
+HTML
+2.1.2 Radio Group
+All the radio buttons with same name collectively called as a radio group.
+
+We can select only one radio button within a radio group.
+
+HTML
+3. Boolean Attributes
+For the HTML Boolean attributes, we only specify the name of the HTML attribute.
+
+The presence of a boolean attribute represents the true value, and the absence represents the false value.
+
+3.1 HTML selected attribute
+The selected attribute specifies that an option should be pre-selected when the page loads.
+
+HTML
+3.2 HTML checked attribute
+The checked attribute specifies that an input element should be pre-selected (checked) when the page loads.
+
+HTML
+Try out the HTML select element, input radio element and the boolean attributes in the below Code Playground.
+
+HTML
+CSS
+JAVASCRIPT
+Inspect
+  submitFormData(formData);
+});
+
+
+  
+
+Submit Feedback
+
+MARKED AS COMPLETE
+Notes
+
+Discussions
+
+Notes
+ NEW NOTE
